@@ -1,10 +1,10 @@
-# Basic Portfolio
+# My Portfolio
 
 Basic Portfolio is a simple web application developed using NEXT.js and React.js. It serves as a portfolio website showcasing information about the developer's skills, projects, and contact details.
 
 ## Live Link
 
-[Basic Portfolio Website](https://varuns-portfolio.netlify.app/)
+[My Portfolio Website](https://varuns-portfolio.netlify.app/)
 
 ## Features
 
